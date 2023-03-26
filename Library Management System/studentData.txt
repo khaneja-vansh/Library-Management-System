@@ -1,0 +1,10 @@
+101,Vansh Khaneja,1st,B.Tech,CSE
+102,Sahil Dawar,1st,B.Tech,EEE
+103,Krishna Puri,1st,B.CA,BCA
+104,Parth Aggarwal,1st,B.Ec,BEc
+105,Harshit,1st,BA.LLB,LLB
+106,Sivanand.R,4th,B.HM,BHM
+107,Shubham Kumar,3rd,B.FD,BFD
+108,Vansh Garg,1st,B.Tech,DSAI
+109,Parth Lamba,1st,B.Tech,CE
+110,Kush Munjal,2nd,M.Tech,IT

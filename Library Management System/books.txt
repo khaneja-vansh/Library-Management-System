@@ -1,0 +1,19 @@
+1001,Head First Java
+1002,CS with Python
+1003,Data Structures and Algorithms
+1004,Indian Constitution
+1005,Communication Skills
+1006,Let us C
+1007,Head first JavaScript
+1008,Manufacturig Processes
+1010,Advanced Engineering Mathematics
+1011,Physics Lakhmir Singh
+1012,Laws and Ethics
+1013,The Hunger Games
+1014,Grokking Algorithms
+1015,RD Sharma Mathematics
+1016,The Self Taught Computer Scientist
+1017,The Chip
+1018,The Innovators
+1019,Hands on Machine Learning
+1020,Java for Dummies
